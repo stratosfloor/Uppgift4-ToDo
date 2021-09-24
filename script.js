@@ -1,3 +1,4 @@
+//Check if JavaScript is loaded
 console.log("JS loaded successfully");
 
 
